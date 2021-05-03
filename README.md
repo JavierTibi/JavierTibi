@@ -3,11 +3,10 @@
 #### My name is Javier Tibi
 
 I am a software developer and entrepreneur. I have worked for important projects in different companies dedicated to software development. 
+Outside of programming, I enjoy video games, chess, soccer, barbecue and collecting coines.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/5paraelpe?label=%405paraelpe&logo=twitter&style=for-the-badge)
 
-
-Outside of programming, I enjoy video games, chess, soccer, barbecue and collecting coines.
 
 ---
 
